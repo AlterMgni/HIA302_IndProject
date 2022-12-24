@@ -4,7 +4,7 @@ The present repository has collected all required items and work done for the pr
 Project outputs are performed with Jupyter Notebook.
 # General Information:
 1. horse-colic.txt and horse-colic.names.txt contain background data necessary for project outputs.\
-Of note, new column names for the dataset are extracted based on information given as listed below:
+Of note, some labels are too long in character length to be transferred directly to dataset. Hence, those are selected and shortened for dataset usage, as listed below:
    - hospital number - hosp_no
    - rectal temperature - rect_temp
    - respiratory rate - resp_rate
